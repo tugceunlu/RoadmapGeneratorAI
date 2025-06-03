@@ -81,10 +81,5 @@ Week 3: Build a CRUD web app; explore 'Flask Guide.txt'
 - Export generated roadmap to PDF
 - Role-based personalization (e.g., students vs professionals)
 
-## License
 
-MIT License
-
----
-
-Created with ❤️ by Tuğçe Ünlü
+Created by Tuğçe Ünlü
