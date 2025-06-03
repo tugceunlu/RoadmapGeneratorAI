@@ -1,0 +1,7 @@
+streamlit
+langchain
+chromadb
+transformers
+torch
+PyPDF2
+chardet
