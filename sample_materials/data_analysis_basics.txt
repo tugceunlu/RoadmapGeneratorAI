@@ -1,0 +1,19 @@
+Data Analysis Basics: Course Notes
+
+Loading data with pandas
+The pandas library reads CSV files into a DataFrame with read_csv(). Inspect the data with head(), info() and describe() before analysing it.
+
+Cleaning data
+Real data has missing values, duplicates and wrong types. Use dropna() or fillna() for missing values, drop_duplicates() for duplicate rows, and astype() to fix column types. Write down every cleaning step so the analysis can be repeated.
+
+Descriptive statistics
+Means, medians and standard deviations summarise a variable. Group results by category with groupby() to compare groups, for example average grades per class.
+
+Visualisation
+Charts make patterns visible. Use a histogram for one numeric variable, a bar chart to compare categories and a scatter plot for the relationship between two numeric variables. Always label axes and give the chart a clear title.
+
+Mini project
+Choose a small open dataset, ask one question about it, clean the data, compute summary statistics and present two charts that answer the question.
+
+Reporting results
+A good analysis report states the question, describes the data and the cleaning steps, presents the key numbers and charts, and ends with a short answer to the question and its limitations. Share the notebook so others can reproduce the results.

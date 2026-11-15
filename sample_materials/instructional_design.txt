@@ -1,0 +1,13 @@
+Instructional Design: Course Notes
+
+The ADDIE model
+ADDIE stands for Analysis, Design, Development, Implementation and Evaluation. It is a systematic process for creating learning experiences.
+
+Learner and needs analysis
+Start by finding out who the learners are, what they already know and what gap the course should close. Use short surveys or interviews.
+
+Writing learning objectives
+Good objectives describe observable behaviour, the conditions and the criteria for success, for example: "Given a dataset, the learner will create a bar chart with labelled axes."
+
+Formative evaluation
+Test early versions with real learners. Usability tests and expert reviews reveal problems before the course is finished.

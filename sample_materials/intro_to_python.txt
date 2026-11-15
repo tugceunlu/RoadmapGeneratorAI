@@ -1,0 +1,13 @@
+Introduction to Python Programming: Course Notes
+
+Variables and data types
+Python stores values in variables. The main built-in types are integers, floats, strings and booleans. Use type() to check the type of a value and practise converting between types with int(), float() and str().
+
+Control flow
+Programs make decisions with if, elif and else. Loops repeat work: a for loop goes through the items of a list or a range, and a while loop runs as long as a condition is true. Practise by writing a small number-guessing game.
+
+Functions
+A function groups code that does one job. Define it with def, give it parameters and return a result. Good functions are short, have a clear name and can be tested on their own.
+
+Lists and dictionaries
+Lists keep items in order and can be sliced and sorted. Dictionaries store key-value pairs, for example a student's name and grade. Combine them to represent a small class register.
