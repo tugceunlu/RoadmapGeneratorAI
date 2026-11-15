@@ -1,7 +1,8 @@
-streamlit
-langchain
-chromadb
-transformers
-torch
-PyPDF2
-chardet
+streamlit>=1.37
+chromadb>=0.5,<0.6
+sentence-transformers>=3.0
+transformers>=4.44
+torch>=2.2
+langchain-text-splitters>=0.3
+pypdf>=4.0
+pytest>=8.0
