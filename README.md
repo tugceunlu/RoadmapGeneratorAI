@@ -79,5 +79,5 @@ docs/screenshot.jpg
 
 ## Author
 
-Built by **Tuğçe Müller** (formerly Ünlü), instructional technologist and incoming M.A. student in Adult Education at Julius-Maximilians-Universität Würzburg. My research interest is generative AI in adult and lifelong learning.
+Built by **Tuğçe Müller** (formerly Ünlü), instructional technologist and M.A. student in Adult Education at Julius-Maximilians-Universität Würzburg. My research interest is generative AI in adult and lifelong learning.
 [Website](https://tugceunlu.github.io) · [LinkedIn](https://www.linkedin.com/in/tugceunlu2023)
